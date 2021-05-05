@@ -1,0 +1,1 @@
+# Nokia2.2_vendor_img
